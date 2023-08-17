@@ -1,0 +1,6 @@
+No references whatsoever.
+All I referred to was the class slides and some documentation for Numpy and PuLP. The links for the same have been attached below, in the order in which they have been mentioned.
+
+https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html
+https://numpy.org/doc/
+https://www.coin-or.org/PuLP/pulp.html
